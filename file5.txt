@@ -1,0 +1,2 @@
+This is file5
+This is file is currently in staging area
