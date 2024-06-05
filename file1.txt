@@ -2,3 +2,5 @@ This is for git class
 This is from file1
 This is moving to staging area
 This will move to main branch
+This is going to another merge
+We are working on PR changes and merge
