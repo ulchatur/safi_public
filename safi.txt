@@ -10,3 +10,6 @@ This is for PR or Pull Request creation.
 Today is 8th June
 Today we are learning about git pull and fetch
 This line is added to show git fetch
+This is going to merge with main branch
+This is for PR or Pull Request creation.
+This is for origin branch pull
