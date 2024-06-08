@@ -5,3 +5,4 @@ This will move to main branch
 This is going to another merge
 This is a new line added to this file on 8th June
 We are working on PR changes and merge
+This is new a new line from feature 2 branch
