@@ -6,3 +6,6 @@ Today I am in office
 This might create a conflict
 This is causes problem with merging
 This is going to merge with main branch
+This is for PR or Pull Request creation.
+Today is 8th June
+Today we are learning about git pull and fetch
