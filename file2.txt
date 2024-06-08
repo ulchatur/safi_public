@@ -2,3 +2,4 @@ This is for azure devops class
 This is file2
 This is for example of branch merging
 This is a newer version of file.
+This is a new line from feature3 branch
